@@ -1,6 +1,6 @@
 Hi there, I'm Harsh! 👋
 
-I am a dedicated Data Scientist with over 5 years of experience in leveraging analytics to drive strategic business decisions.
+I am a seasoned Data Scientist with over 5 years of experience in leveraging analytics to drive strategic business decisions.
 
 🧠 Expertise
 
