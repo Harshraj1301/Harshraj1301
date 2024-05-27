@@ -27,8 +27,11 @@ I am a seasoned Data Scientist with over 5 years of experience in leveraging ana
 
 📚 Education
 
-      Purdue University
-      - MS in Business Analytics
+      Purdue University (West Lafayette, United States)
+      - MS in Business Analytics and Information Management (STEM)
+
+      VIT University (Vellore, India)
+      - B.Tech in Mechanical Engineering (STEM)
 
 
 🌟 Skills
