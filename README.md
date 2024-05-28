@@ -4,6 +4,7 @@ I am a seasoned Data Scientist with over 5 years of experience in leveraging ana
 
 🧠 Expertise
 
+      - Data Science
       - Machine Learning
       - Statistical Analysis
       - Data Visualization
