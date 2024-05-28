@@ -60,9 +60,9 @@ I am a seasoned Data Scientist with over 5 years of experience in leveraging ana
       
 🔗 **Connect with Me**
 
-      - [LinkedIn](https://www.linkedin.com/in/harshraj-jadeja/)
-      - [Portfolio Website](https://harshrajjadeja13.wixsite.com/hjadeja)
-      - 📧 [Email](mailto:harshrajjadeja13@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/harshraj-jadeja/)
+- [Portfolio Website](https://harshrajjadeja13.wixsite.com/hjadeja)
+- 📧 [Email](mailto:harshrajjadeja13@gmail.com)
 
 
 
